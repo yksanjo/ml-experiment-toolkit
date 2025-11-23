@@ -1,5 +1,9 @@
 # ML Experiment Toolkit
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/) [![GitHub stars](https://img.shields.io/github/stars/yksanjo/ml-experiment-toolkit?style=social)](https://github.com/yksanjo/ml-experiment-toolkit/stargazers) [![GitHub forks](https://img.shields.io/github/forks/yksanjo/ml-experiment-toolkit.svg)](https://github.com/yksanjo/ml-experiment-toolkit/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/yksanjo/ml-experiment-toolkit.svg)](https://github.com/yksanjo/ml-experiment-toolkit/issues) [![Last commit](https://img.shields.io/github/last-commit/yksanjo/ml-experiment-toolkit.svg)](https://github.com/yksanjo/ml-experiment-toolkit/commits/main)
+
+
 A lightweight Python library for rapid ML experimentation that combines data profiling, automated model comparison, experiment tracking, and built-in visualizations in a simple, opinionated API.
 
 ## Features
